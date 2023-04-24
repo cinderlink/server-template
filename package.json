@@ -1,0 +1,24 @@
+{
+  "name": "@cinderlink/server-template",
+  "private": true,
+  "version": "0.0.1",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "@cinderlink/plugin-identity-server": "workspace:^0.0.5",
+    "@cinderlink/plugin-offline-sync-server": "workspace:^0.0.7",
+    "@cinderlink/plugin-social-server": "workspace:^0.0.7",
+    "@cinderlink/server-bin": "workspace:^0.0.9"
+  },
+  "keywords": [],
+  "author": "Drew Ewing",
+  "license": "ISC",
+  "devDependencies": {
+    "@cinderlink/core-types": "workspace:^0.0.6",
+    "@cinderlink/tsconfig": "workspace:^1.0.0",
+    "prettier": "^2.8.8",
+    "tsup": "^6.7.0",
+    "typescript": "^5.0.4",
+    "vitest": "^0.30.1"
+  }
+}
