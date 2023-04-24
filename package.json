@@ -7,8 +7,10 @@
   "dependencies": {
     "@cinderlink/plugin-identity-server": "workspace:^0.0.5",
     "@cinderlink/plugin-offline-sync-server": "workspace:^0.0.7",
+    "@cinderlink/plugin-social-core": "workspace:^0.0.9",
     "@cinderlink/plugin-social-server": "workspace:^0.0.7",
-    "@cinderlink/server-bin": "workspace:^0.0.9"
+    "@cinderlink/server-bin": "workspace:^0.0.11",
+    "dotenv": "^16.0.3"
   },
   "keywords": [],
   "author": "Drew Ewing",

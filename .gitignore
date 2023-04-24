@@ -1,2 +1,4 @@
 node_modules/
 cinderlink/
+cinderlink.config.js
+.env
