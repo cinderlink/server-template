@@ -1,22 +1,22 @@
 {
   "name": "@cinderlink/server-template",
   "private": true,
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "type": "module",
   "dependencies": {
-    "@cinderlink/plugin-identity-server": "^0.0.5",
+    "@cinderlink/plugin-identity-server": "^0.0.6",
     "@cinderlink/plugin-offline-sync-server": "^0.0.7",
     "@cinderlink/plugin-social-core": "^0.0.9",
-    "@cinderlink/plugin-social-server": "^0.0.7",
-    "@cinderlink/server-bin": "^0.0.11",
+    "@cinderlink/plugin-social-server": "^0.0.8",
+    "@cinderlink/server-bin": "^0.0.12",
     "dotenv": "^16.0.3"
   },
   "keywords": [],
   "author": "Drew Ewing",
   "license": "ISC",
   "devDependencies": {
-    "@cinderlink/core-types": "^0.0.6",
+    "@cinderlink/core-types": "^0.0.7",
     "@cinderlink/plugin-sync-db": "^0.0.9",
     "@cinderlink/tsconfig": "^1.0.0",
     "prettier": "^2.8.8",
