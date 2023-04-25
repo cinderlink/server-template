@@ -1,7 +1,7 @@
 {
   "name": "@cinderlink/server-template",
   "private": true,
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "type": "module",
   "dependencies": {
@@ -9,7 +9,8 @@
     "@cinderlink/plugin-offline-sync-server": "^0.0.7",
     "@cinderlink/plugin-social-core": "^0.0.9",
     "@cinderlink/plugin-social-server": "^0.0.8",
-    "@cinderlink/server-bin": "^0.0.12",
+    "@cinderlink/plugin-sync-db": "^0.0.11",
+    "@cinderlink/server-bin": "^0.0.13",
     "dotenv": "^16.0.3"
   },
   "keywords": [],
@@ -17,7 +18,6 @@
   "license": "ISC",
   "devDependencies": {
     "@cinderlink/core-types": "^0.0.7",
-    "@cinderlink/plugin-sync-db": "^0.0.9",
     "@cinderlink/tsconfig": "^1.0.0",
     "prettier": "^2.8.8",
     "tsup": "^6.7.0",
