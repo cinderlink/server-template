@@ -5,11 +5,12 @@
   "description": "",
   "type": "module",
   "dependencies": {
+    "@cinderlink/identifiers": "^0.0.4",
     "@cinderlink/plugin-identity-server": "^0.0.6",
-    "@cinderlink/plugin-offline-sync-server": "^0.0.7",
+    "@cinderlink/plugin-offline-sync-server": "^0.0.8",
     "@cinderlink/plugin-social-core": "^0.0.9",
     "@cinderlink/plugin-social-server": "^0.0.8",
-    "@cinderlink/plugin-sync-db": "^0.0.11",
+    "@cinderlink/plugin-sync-db": "^0.0.12",
     "@cinderlink/server-bin": "^0.0.13",
     "dotenv": "^16.0.3"
   },
@@ -17,7 +18,7 @@
   "author": "Drew Ewing",
   "license": "ISC",
   "devDependencies": {
-    "@cinderlink/core-types": "^0.0.7",
+    "@cinderlink/core-types": "^0.0.8",
     "@cinderlink/tsconfig": "^1.0.0",
     "prettier": "^2.8.8",
     "tsup": "^6.7.0",
