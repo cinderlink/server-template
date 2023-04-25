@@ -1,7 +1,7 @@
 {
   "name": "@cinderlink/server-template",
   "private": true,
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "",
   "type": "module",
   "dependencies": {
@@ -10,8 +10,8 @@
     "@cinderlink/plugin-offline-sync-server": "^0.0.8",
     "@cinderlink/plugin-social-core": "^0.0.9",
     "@cinderlink/plugin-social-server": "^0.0.8",
-    "@cinderlink/plugin-sync-db": "^0.0.12",
-    "@cinderlink/server-bin": "^0.0.13",
+    "@cinderlink/plugin-sync-db": "^0.0.14",
+    "@cinderlink/server-bin": "^0.0.14",
     "dotenv": "^16.0.3"
   },
   "keywords": [],
