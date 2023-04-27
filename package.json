@@ -5,7 +5,7 @@
   "description": "",
   "type": "module",
   "dependencies": {
-    "@cinderlink/client": "workspace:^0.0.12",
+    "@cinderlink/client": "^0.0.13",
     "@cinderlink/identifiers": "^0.0.4",
     "@cinderlink/plugin-identity-server": "^0.0.6",
     "@cinderlink/plugin-offline-sync-server": "^0.0.8",
